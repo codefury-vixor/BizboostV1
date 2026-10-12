@@ -1,7 +1,8 @@
-const CACHE = "bizboost-v1";
+const CACHE = "bizboost-v4";
 const FILES = [
   "./", "./index.html", "./style.css", "./script.js", "./tools.js",
-  "./extras.js", "./legal.js", "./manifest.json", "./icon.svg"
+  "./extras.js", "./legal.js", "./theme.js", "./manifest.json",
+  "./icon.svg", "./icon-192.png", "./icon-512.png"
 ];
 
 self.addEventListener("install", function (e) {
