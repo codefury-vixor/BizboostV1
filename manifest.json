@@ -1,0 +1,12 @@
+{
+  "name": "BizBoost AI",
+  "short_name": "BizBoost",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14161f",
+  "theme_color": "#6c3df4",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
